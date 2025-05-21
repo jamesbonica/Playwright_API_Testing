@@ -1,6 +1,5 @@
 import { test, expect } from '@playwright/test';
 
-/* Comment*/
 
 test('API POST Request', async ({ request }) => {
 
